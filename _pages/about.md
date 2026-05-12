@@ -10,7 +10,7 @@ redirect_from:
 
 *Social Movements · Political Sociology · Computational Social Science*
 
-![Tom Einhorn](/images/presentation_photo.jpg){: .align-right}
+![Tom Einhorn](/images/presentation_photo.jpg){: .align-right width="300px"}
 
 I am a PhD candidate in sociology at the University of British Columbia. I study how social movements evolve, and particularly what happens after they win. Using computational methods and large-scale text data, I try to understand the cultural dynamics of collective action: what holds movements together, how they change, and what happens to them once they get what they want.
 
