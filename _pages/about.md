@@ -45,7 +45,13 @@ font-size: 1.1rem;
 Skills
 </h3>
 
-<ul>
+<ul style="
+list-style-type: none;
+padding-left: 0;
+margin-bottom: 0;
+line-height: 1.7;
+color: #444;
+">
   <li>R</li>
   <li>Python</li>
   <li>Linux</li>
@@ -74,7 +80,13 @@ font-size: 1.1rem;
 Interests
 </h3>
 
-<ul>
+<ul style="
+list-style-type: none;
+padding-left: 0;
+margin-bottom: 0;
+line-height: 1.7;
+color: #444;
+">
   <li>Social movements</li>
   <li>Political sociology</li>
   <li>Organizations</li>
