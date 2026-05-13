@@ -10,7 +10,7 @@ author_profile: true
 My research sits at the intersection of social movement studies, political sociology, and computational social science. I am broadly interested in how collective action unfolds over time, and particularly in how movements cohere, how they fracture, and how the cultural materials that sustain them shift in response to political and social change. Across my projects, I use computational methods and large-scale data to ask questions about meaning, contention, and power.
 
 ---
-## After Victory: The LGBTQ Movement and the Politics of Post-Victory
+## The LGBTQ Movement After Victory
 
 My dissertation asks what happens to social movements after they win. Taking the American LGBTQ movement after the 2015 *Obergefell v. Hodges* decision as a case study, I examine how victory reshapes the cultural fabric of a movement: its coalitions, its framing and messaging, its collective identity, and the stories it tells itself about its own past.
 
