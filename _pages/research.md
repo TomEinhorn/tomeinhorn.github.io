@@ -3,10 +3,8 @@ layout: default
 title: Research
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /research/
-  - /research.md
 ---
+
 # Research
 
 My research sits at the intersection of social movement studies, political sociology, and computational social science. I am broadly interested in how collective action unfolds over time, and particularly in how movements cohere, how they fracture, and how the cultural materials that sustain them shift in response to political and social change. Across my projects, I use computational methods and large-scale data to ask questions about meaning, contention, and power.
