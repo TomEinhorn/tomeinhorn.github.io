@@ -58,6 +58,20 @@ author_profile: true
   <em>Los Angeles, CA · August 5-9, 2022</em>
 </div>
 
+## Peer Review
+
+<div class="service-entry">
+  <em>American Sociological Review</em>
+</div>
+
+<div class="service-entry">
+  <em>American Journal of Public Health</em>
+</div>
+
+<div class="service-entry">
+  <em>American Sociological Review</em> · <em>American Journal of Public Health</em>
+</div>
+
 ## Departmental Service
 
 <div class="service-entry">
