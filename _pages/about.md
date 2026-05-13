@@ -80,8 +80,7 @@ ABD, University of Brtisih Columbia
 **MA Sociology**  
 2019, Hebrew University of Jerusalem
 
-**BA Sociology and Anthropology**
-*Minor in Phylosophy*
+**BA Sociology and Anthropology with a minor in Philosophy**
 2017, Hebrew University of Jerusalem
 
 </div>
