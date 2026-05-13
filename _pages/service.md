@@ -49,7 +49,7 @@ author_profile: true
 </div>
 
 <div class="service-entry">
-  <strong>CBSM Section Roundtable Organizer</strong>
+  <strong>Organizer, CBSM Section Roundtables</strong>
   119th Annual Meeting of the American Sociological Association, Section on Collective Behavior and Social Movements<br>
   <em>Montreal, QC · August 9–13, 2024</em>
 </div>
