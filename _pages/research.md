@@ -3,6 +3,10 @@ layout: archive
 title: Research
 permalink: /research/
 author_profile: true
+toc: true
+toc_label: "On this page"
+toc_icon: "list"
+toc_sticky: true
 ---
 
 
