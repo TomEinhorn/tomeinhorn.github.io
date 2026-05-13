@@ -35,34 +35,18 @@ border: 1px solid #e5e5e5;
 border-radius: 8px;
 ">
 
-### Skills
+<h3>Skills</h3>
 
-- R
-- Python
-- Linux
-- LaTeX
-- Qualitative analysis
-- Survey methods
-- Computational text analysis
-- Statistical modeling
-
-</div>
-
-<div style="
-padding: 1rem;
-border: 1px solid #e5e5e5;
-border-radius: 8px;
-">
-
-### Interests
-
-- Social movement studies
-- Political sociology
-- Organizations
-- Digital media
-- Culture
-- Computational social science
-- Sociological theory
+<ul>
+  <li>R</li>
+  <li>Python</li>
+  <li>Linux</li>
+  <li>LaTeX</li>
+  <li>Qualitative analysis</li>
+  <li>Survey methods</li>
+  <li>Computational text analysis</li>
+  <li>Statistical modeling</li>
+</ul>
 
 </div>
 
@@ -72,16 +56,42 @@ border: 1px solid #e5e5e5;
 border-radius: 8px;
 ">
 
-### Education
+<h3>Interests</h3>
 
-**PhD Sociology**  
-ABD, University of Brtisih Columbia
+<ul>
+  <li>Social movements</li>
+  <li>Political sociology</li>
+  <li>Organizations</li>
+  <li>Digital media</li>
+  <li>Culture</li>
+  <li>Computational social science</li>
+  <li>Sociological theory</li>
+</ul>
 
-**MA Sociology**  
+</div>
+
+<div style="
+padding: 1rem;
+border: 1px solid #e5e5e5;
+border-radius: 8px;
+">
+
+<h3>Education</h3>
+
+<p>
+<strong>PhD Sociology</strong><br>
+ABD, University of British Columbia
+</p>
+
+<p>
+<strong>MA Sociology</strong><br>
 2019, Hebrew University of Jerusalem
+</p>
 
-**BA Sociology and Anthropology with a minor in Philosophy**
+<p>
+<strong>BA Sociology and Anthropology with a minor in Phylosophy</strong><br>
 2017, Hebrew University of Jerusalem
+</p>
 
 </div>
 
