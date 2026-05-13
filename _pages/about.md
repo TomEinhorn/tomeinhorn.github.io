@@ -10,7 +10,7 @@ redirect_from:
 
 *Social Movements · Political Sociology · Computational Social Science*
 
-![Tom Einhorn](/images/presentation_photo.jpg){: .align-right width="300px"}
+![Tom Einhorn](/images/presentation_photo.jpg){: .align-right width="350px"}
 
 I am a PhD candidate in sociology at the University of British Columbia. I study how social movements evolve, and particularly what happens after they win. Using computational methods and large-scale text data, I try to understand the cultural dynamics of collective action: what holds movements together, how they change, and what happens to them once they get what they want.
 
@@ -35,7 +35,15 @@ border: 1px solid #e5e5e5;
 border-radius: 8px;
 ">
 
-<h3>Skills</h3>
+<h3 style="
+margin-top: 0;
+margin-bottom: 1rem;
+padding-bottom: 0.4rem;
+border-bottom: 2px solid #dddddd;
+font-size: 1.1rem;
+">
+Skills
+</h3>
 
 <ul>
   <li>R</li>
@@ -56,7 +64,15 @@ border: 1px solid #e5e5e5;
 border-radius: 8px;
 ">
 
-<h3>Interests</h3>
+<h3 style="
+margin-top: 0;
+margin-bottom: 1rem;
+padding-bottom: 0.4rem;
+border-bottom: 2px solid #dddddd;
+font-size: 1.1rem;
+">
+Interests
+</h3>
 
 <ul>
   <li>Social movements</li>
@@ -76,7 +92,15 @@ border: 1px solid #e5e5e5;
 border-radius: 8px;
 ">
 
-<h3>Education</h3>
+<h3 style="
+margin-top: 0;
+margin-bottom: 1rem;
+padding-bottom: 0.4rem;
+border-bottom: 2px solid #dddddd;
+font-size: 1.1rem;
+">
+Education
+</h3>
 
 <p>
 <strong>PhD Sociology</strong><br>
