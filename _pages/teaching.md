@@ -50,6 +50,9 @@ My teaching experience at UBC spans six years as a teaching assistant across int
     <span class="number">SOCI 200</span> · Sociology of the Family
   </div>
   <div class="course-entry">
+    <span class="number">SOCI 220</span> · Sociology of Indigenous Peoples
+  </div>
+  <div class="course-entry">
     <span class="number">SOCI 224</span> · Sociology of Personal Life
   </div>
   <div class="course-entry">
