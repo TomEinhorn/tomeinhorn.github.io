@@ -24,6 +24,8 @@ author_profile: true
   }
 </style>
 
+{% include toc %}
+
 ## Professional Service
 
 <div class="service-entry">
@@ -66,10 +68,6 @@ author_profile: true
 
 <div class="service-entry">
   <em>American Journal of Public Health</em>
-</div>
-
-<div class="service-entry">
-  <em>American Sociological Review</em> · <em>American Journal of Public Health</em>
 </div>
 
 ## Departmental Service
