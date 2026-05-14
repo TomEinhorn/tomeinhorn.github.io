@@ -18,7 +18,7 @@ An introductory workshop to computational text analysis for social scientists wi
 
 *Slides available upon request.*
 
-**From the conference programme:**
+**From the conference program:**
 
 > Have you previously done qualitative analysis of texts and are curious about how AI can assist with content analysis? Does your research rely on human coding and you wonder about the potential of computational approaches? This session will introduce you to computational text analysis. We will explore prompt-based classification of real historical documents, demonstrating how AI models can analyze text without being specifically trained on your particular research question using simple, natural language prompts. We will discuss what makes this method powerful for social science research, its limitations, and how it complements traditional content analysis methods. This session is designed for beginners. No programming experience required. (Note: This session focuses on natural language inference rather than generative AI tools like ChatGPT or encoder-only models like BERT.)
 
