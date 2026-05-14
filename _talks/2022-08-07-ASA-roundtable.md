@@ -6,7 +6,7 @@ type: "Roundtable"
 talk_type: "Roundtable Presentation"
 permalink: /talks/2022-08-07-ASA-roundtable
 venue: "117th American Sociological Association Annual Meeting"
-date: 2025-08-09
+date: 2022-08-09
 location: "Los Angeles, CA, USA"
 ---
 
