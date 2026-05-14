@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Research Ethics for Social Research<br />Vancouver School of Theology; Vancouver, BC, CA",
+    49.2608724,
+    -123.113952
+  ],
+  [
     "Introduction to Computational Text Analysis<br />American Political Science Association Section on Migration and Citizenship Pre-Conference; Vancouver, BC, CA",
     49.2608724,
     -123.113952
