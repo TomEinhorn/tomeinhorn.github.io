@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "What Do Language Models Know About the Past? LLM Representation of U.S. Labour Force Structure, 1850\u20132024<br />121st American Sociological Association Annual Meeting; New York City, NY, USA",
+    40.7127281,
+    -74.0060152
+  ],
+  [
     "Research Ethics for Social Research<br />Vancouver School of Theology; Vancouver, BC, CA",
     49.2608724,
     -123.113952
