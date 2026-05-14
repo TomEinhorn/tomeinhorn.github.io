@@ -45,6 +45,11 @@ var addressPoints = [
     -74.0060152
   ],
   [
+    "Barriers to, and Facilitators of, SARS-COV2 Vaccine Uptake Among Indigenous Peoples Living in Canada and the United States<br />Vaccination in Racialized and Indigenous Communities in Canada: Forecasting Trust, Interdisciplinary Centre for Black Health, University of Ottawa; Ottawa, ON, CA",
+    45.4208777,
+    -75.6901106
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
