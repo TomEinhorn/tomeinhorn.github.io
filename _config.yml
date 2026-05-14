@@ -90,6 +90,15 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Talk category
+talk_category:
+  conferences:
+    title: 'Conference Presentations'
+  workshops:
+    title: 'Workshops'
+  invited:
+    title: 'Invited Talks'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
