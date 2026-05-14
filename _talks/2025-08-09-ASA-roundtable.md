@@ -3,7 +3,7 @@ title: "From Peak to Peak: How Master Frames Bridge Protest Cycles"
 collection: talks
 category: conferences
 type: "Roundtable"
-talk_type: "Conference Presentation"
+talk_type: "Roundtable Presentation"
 permalink: /talks/2025-08-09-ASA-roundtable
 venue: "120th American Sociological Association Annual Meeting"
 date: 2025-08-09
