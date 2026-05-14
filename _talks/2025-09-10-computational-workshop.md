@@ -2,6 +2,7 @@
 title: "Introduction to Computational Text Analysis"
 collection: talks
 category: workshops
+type: "Workshop"
 talk_type: "Workshop"
 permalink: /talks/2025-09-10-computational-workshop
 venue: "American Political Science Association Section on Migration and Citizenship Pre-Conference"
