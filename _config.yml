@@ -92,6 +92,8 @@ publication_category:
 
 # Talk category
 talk_category:
+  upcoming:
+    title: 'Upcoming'
   conferences:
     title: 'Conference Presentations'
   workshops:
