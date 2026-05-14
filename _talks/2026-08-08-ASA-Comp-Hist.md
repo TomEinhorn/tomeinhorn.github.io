@@ -10,7 +10,7 @@ date: 2026-08-08
 location: "New York City, NY, USA"
 ---
 
-*With Yash Mali and Laura Nelson*
+**Co-authors:** Yash Mali and Laura Nelson
 
 **Session:** Comparative-Historical Sociology and Computational Social Science
 
