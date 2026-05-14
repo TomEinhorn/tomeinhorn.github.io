@@ -15,6 +15,8 @@ slidesurl:
 
 A hands-on workshop introducing computational text analysis to social scientists with no prior programming experience. The session focused on natural language inference as a tool for content analysis, demonstrating how AI models can classify real historical documents using simple, natural language prompts — without requiring task-specific training data. Topics included the strengths and limitations of prompt-based classification, how it compares to and complements traditional human coding, and practical considerations for integrating computational methods into qualitative and mixed-methods research.
 
+*Slides available upon request.*
+
 **From the conference programme:**
 
 > Have you previously done qualitative analysis of texts and are curious about how AI can assist with content analysis? Does your research rely on human coding and you wonder about the potential of computational approaches? This session will introduce you to computational text analysis. We will explore prompt-based classification of real historical documents, demonstrating how AI models can analyze text without being specifically trained on your particular research question using simple, natural language prompts. We will discuss what makes this method powerful for social science research, its limitations, and how it complements traditional content analysis methods. This session is designed for beginners. No programming experience required. (Note: This session focuses on natural language inference rather than generative AI tools like ChatGPT or encoder-only models like BERT.)
