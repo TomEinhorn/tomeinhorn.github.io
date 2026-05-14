@@ -12,8 +12,9 @@ slidesurl:
 ---
 
 **Instructor:** Tom Einhorn
+Workshop materials developed in collaboration with [UBC prAxIs](https://ubcecon.github.io/praxis-ubc/) team.
 
-A hands-on workshop introducing computational text analysis to social scientists with no prior programming experience. The session focused on natural language inference as a tool for content analysis, demonstrating how AI models can classify real historical documents using simple, natural language prompts — without requiring task-specific training data. Topics included the strengths and limitations of prompt-based classification, how it compares to and complements traditional human coding, and practical considerations for integrating computational methods into qualitative and mixed-methods research.
+An introductory workshop to computational text analysis for social scientists with no prior experience in the field. The session started with the basics, building up to zero-shot classification with large language models (LLMs) using natural language inference (NLI). The workshop demonstrated how LLNs can classify real historical documents using simple, natural language prompts and without requiring task-specific training data. Topics included the strengths and limitations of prompt-based classification, how it compares to and complements traditional human coding, and practical considerations for integrating computational methods into qualitative and mixed-methods research.
 
 *Slides available upon request.*
 
@@ -23,8 +24,8 @@ A hands-on workshop introducing computational text analysis to social scientists
 
 ## Workshop Details
 
-**Duration:** 90 minutes
+**Duration:** 2 hours.
 
 **Participants:** Members of the Section on Migration and Citizenship Pre-Conference at the American Political Science Association, in Vancouver for the APSA annual meeting.
 
-**Software/tools:** Workshop given in a specially created JupyterLab notebook. Workshop materials developed by [UBC prAxIs](https://ubcecon.github.io/praxis-ubc/).
+**Software/tools:** Python, JupyterLab notebook.
