@@ -4,7 +4,7 @@ collection: talks
 category: conferences
 type: "Conference Presentation"
 talk_type: "Conference Presentation"
-permalink: /talks/26-08-09-ASA-roundtable
+permalink: /talks/2025-08-09-ASA-roundtable
 venue: "120th American Sociological Association Annual Meeting"
 date: 2025-08-09
 location: "Chicago, IL, USA"
