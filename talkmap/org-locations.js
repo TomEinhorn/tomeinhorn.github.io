@@ -20,6 +20,11 @@ var addressPoints = [
     -122.4075201
   ],
   [
+    "Was it Worth it? Memory, Victory, and Ambivalence in the LGBTQ Movement<br />121st American Sociological Association Annual Meeting; New York City, NY, USA",
+    40.7127281,
+    -74.0060152
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
