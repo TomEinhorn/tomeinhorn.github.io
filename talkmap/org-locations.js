@@ -5,14 +5,14 @@ var addressPoints = [
     -74.0060152
   ],
   [
-    "Research Ethics for Social Research<br />Vancouver School of Theology; Vancouver, BC, CA",
-    49.2608724,
-    -123.113952
-  ],
-  [
     "From Peak to Peak: How Master Frames Bridge Protest Cycles<br />120th American Sociological Association Annual Meeting; Chicago, IL, USA",
     41.8755616,
     -87.6244212
+  ],
+  [
+    "Research Ethics for Social Research<br />Vancouver School of Theology; Vancouver, BC, CA",
+    49.2608724,
+    -123.113952
   ],
   [
     "Introduction to Computational Text Analysis<br />American Political Science Association Section on Migration and Citizenship Pre-Conference; Vancouver, BC, CA",
@@ -28,6 +28,11 @@ var addressPoints = [
     "CIEDAR Overview: Indigenous Voices in Health Research<br />Indigenous Health Speakers Series, Dalla Lana School of Public Health, University of Toronto; Toronto, ON, CA",
     43.6534817,
     -79.3839347
+  ],
+  [
+    "The Ties that Bind: Post-Victory Fragmentation, Coherence and Adaptation in LGBTQ Movement Framing<br />ASA Section on Collective Behavior and Social Movements (CBSM) Pre-Conference, Northwestern University; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
   ],
   [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
