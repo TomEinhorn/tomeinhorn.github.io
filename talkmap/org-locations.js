@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Introduction to Computational Text Analysis<br />American Political Science Association Section on Migration and Citizenship Pre-Conference; Vancouver, BC, CA",
+    49.2608724,
+    -123.113952
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
