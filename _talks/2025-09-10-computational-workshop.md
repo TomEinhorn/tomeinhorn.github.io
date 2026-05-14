@@ -27,4 +27,4 @@ A hands-on workshop introducing computational text analysis to social scientists
 
 **Participants:** Members of the Section on Migration and Citizenship Pre-Conference at the American Political Science Association, in Vancouver for the APSA annual meeting.
 
-**Software/tools:** Workshop given in a specially created JupyterLab notebook. Workshop materials developed by [UBC prAxIs](ubcecon.github.io/praxis-ubc/)
+**Software/tools:** Workshop given in a specially created JupyterLab notebook. Workshop materials developed by [UBC prAxIs](https://ubcecon.github.io/praxis-ubc/).
