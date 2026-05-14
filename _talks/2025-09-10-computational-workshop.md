@@ -17,7 +17,7 @@ Workshop materials developed in collaboration with [UBC prAxIs](https://ubcecon.
 
 An introductory workshop to computational text analysis for social scientists with no prior experience in the field. The session started with the basics, building up to zero-shot classification with large language models (LLMs) using natural language inference (NLI). The workshop demonstrated how LLNs can classify real historical documents using simple, natural language prompts and without requiring task-specific training data. Topics included the strengths and limitations of prompt-based classification, how it compares to and complements traditional human coding, and practical considerations for integrating computational methods into qualitative and mixed-methods research.
 
-*Slides available upon request.*
+*Read about the workshop and download workshop materials on the [UBC Centre for Migration Studies website](https://migration.ubc.ca/news/apsa-pre-conference-narrative-and-text-analysis-in-the-study-of-migration-and-citizenship/).*
 
 **From the conference program:**
 
