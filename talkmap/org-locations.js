@@ -10,6 +10,11 @@ var addressPoints = [
     -123.113952
   ],
   [
+    "From Peak to Peak: How Master Frames Bridge Protest Cycles<br />120th American Sociological Association Annual Meeting; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
+  ],
+  [
     "Introduction to Computational Text Analysis<br />American Political Science Association Section on Migration and Citizenship Pre-Conference; Vancouver, BC, CA",
     49.2608724,
     -123.113952
