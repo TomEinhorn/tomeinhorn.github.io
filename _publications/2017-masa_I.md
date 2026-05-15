@@ -1,5 +1,5 @@
 ---
-title: "Answering the Need for Identity: ‘Massa’ and Israeli identity Building"
+title: "Answering the Need for Identity: ‘Massa’ and Israeli Identity Building"
 collection: publications
 category: chapter
 permalink: /publication/2017-masa_I
