@@ -6,7 +6,7 @@ permalink: /publication/2019-brook_II
 authors: 'Dafna Haran, <b>Tom Einhorn</b>, Nurit Guedj, and Lital Barlev'
 date: 2019-01-01
 venue: 'Myers-JDC-Brookdale Institute'
-volume:
+volume: 'RR-813-19'
 issue:
 pages:
 paperurl: 
