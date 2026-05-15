@@ -2,7 +2,7 @@
 title: "The Provision of Assistive Devices in Selected Countries"
 collection: publications
 category: report
-permalink: /publication/2017-masa_I
+permalink: /publication/2019-brook_I
 authors: 'Mariela Yabo and <b>Tom Einhorn</b>'
 date: 2019-01-01
 venue: 'Myers-JDC-Brookdale Institute'
