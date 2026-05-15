@@ -2,11 +2,11 @@
 title: "The Influence of Sociocultural Determinants on the Number of Diagnosed Chronic Illness Reported by Indigenous Peoples in Canada and the United States During SARS-CoV2"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-JPCCH
 authors: "Mary G Jessome, Kimberly R Huyser, Katherine A Collins, <b>Tom Einhorn</b>, Tamara Chavez, Nicole Dawydiuk, Michelle Johnson-Jennings"
-date: 2025
+date: 2025-07-04
 venue: 'Journal of Primary Care & Community Health'
-volume: '15'
+volume: '16'
 issue: 
 pages:
 paperurl: 
