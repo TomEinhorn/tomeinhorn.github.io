@@ -93,6 +93,8 @@ publication_category:
     title: 'Public Sociology'
   conferences:
     title: 'Conference Papers'
+  report:
+    title: 'Reports and Policy Papers'
 
 # Talk category
 talk_category:
