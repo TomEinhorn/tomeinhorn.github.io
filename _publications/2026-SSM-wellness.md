@@ -1,5 +1,5 @@
 ---
-title: "Land-Based Healing as a Pathway to Indigenous Health and Self-Determination"
+title: "Development and Validation of a Multilevel, Multidimensional Indigenous Well-Being Scale Using Cross-Sectional Survey Data"
 collection: publications
 category: forthcoming
 status: "Under review"
