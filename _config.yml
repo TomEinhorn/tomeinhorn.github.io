@@ -85,6 +85,8 @@ author:
 publication_category:
   forthcoming:
     title: 'Under Review and Forthcoming'
+  inprogress:
+    title: 'Works in Progress'
   manuscripts:
     title: 'Journal Articles'
   books:
