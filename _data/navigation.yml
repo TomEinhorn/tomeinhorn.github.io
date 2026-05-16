@@ -30,8 +30,8 @@ main:
     #url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    #url: /files/CV-May26p.pdf
+    #url: /cv/
+    url: /files/CV-May26p.pdf
     
   # - title: "CV"
   #   url: /cv-json/
