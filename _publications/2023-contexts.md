@@ -11,7 +11,7 @@ issue: '2'
 pages: '60-61'
 paperurl: 
 bibtexurl: 
-citation: 'Einhorn, Tom and Catherine Corrigall-Brown. &quot;Art attack: Protest takes aim at the climate crisis&quot;. <i>Contexts</i> 22(2):60-61.'
+citation: 'Einhorn, Tom and Catherine Corrigall-Brown. 2023. &quot;Art attack: Protest takes aim at the climate crisis&quot;. <i>Contexts</i> 22(2):60-61.'
 ---
 
 
