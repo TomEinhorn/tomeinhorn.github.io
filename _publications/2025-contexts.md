@@ -11,7 +11,7 @@ issue: '4'
 pages: '80-81'
 paperurl: 
 bibtexurl: 
-citation: 'Jesoome, Mary G. and Tom Einhorn. &quot;In Pain, for Pleasure&quot;. <i>Contexts</i> 24(4):80-81.'
+citation: 'Jesoome, Mary G. and Tom Einhorn. 2025. &quot;In Pain, for Pleasure&quot;. <i>Contexts</i> 24(4):80-81.'
 ---
 
 
