@@ -11,6 +11,6 @@ issue:
 pages:
 paperurl: 
 bibtexurl: 
-citation: 'Einhorn, Tom. &quot;Anti‑government protesters are reclaiming the Israeli flag from the far‑right&quot;. <i>The Conversation</i>, May 25.'
+citation: 'Einhorn, Tom. 2023. &quot;Anti‑government protesters are reclaiming the Israeli flag from the far‑right&quot;. <i>The Conversation</i>, May 25.'
 ---
 
