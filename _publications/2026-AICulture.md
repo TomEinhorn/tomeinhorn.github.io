@@ -2,8 +2,8 @@
 title: "Quantifying Culture from Embeddings to Generation"
 collection: publications
 category: chapter
-permalink: /publication/2026-AIQual
-authors: "Laura Nelson and <b>Tom Einhorn</b>"
+permalink: /publication/2026-AICulture
+authors: "Laura K. Nelson and <b>Tom Einhorn</b>"
 date: 2026-06-12
 venue: 'Notes on the Future of Quantitative Social Science'
 volume:
@@ -11,7 +11,7 @@ issue:
 pages:
 paperurl: 
 bibtexurl: 
-citation: 'Nleson, Laura and Tom Einhorn. 2026. &quot;Quantifying Culture from Embeddings to Generation&quot;. In <i>Notes on the Future of Quantitative Social Science</i>, edited by Rohan Alexander.'
+citation: 'Nleson, Laura K. and Tom Einhorn. 2026. &quot;Quantifying Culture from Embeddings to Generation&quot;. In <i>Notes on the Future of Quantitative Social Science</i>, edited by Rohan Alexander.'
 ---
 
 **Abstract:**
