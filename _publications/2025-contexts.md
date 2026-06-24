@@ -14,5 +14,6 @@ bibtexurl:
 citation: 'Jesoome, Mary G. and Tom Einhorn. 2025. &quot;In Pain, for Pleasure&quot;. <i>Contexts</i> 24(4):80-81.'
 ---
 
-
 Mary G. Jessome and Tom Einhorn on Canadians' unequal sexual experiences.
+
+[Click here to read the full paper.](https://journals.sagepub.com/doi/abs/10.1177/15365042251386866)
