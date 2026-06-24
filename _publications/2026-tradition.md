@@ -11,7 +11,7 @@ issue: '2'
 pages: '76-79'
 paperurl: 
 bibtexurl: 
-citation: 'Jesoome, Mary G, Kimberly R. Huyser, <b>Tom Einhorn</b>, Tamara Chavez, Nicole Dawydiuk, Katherine A. Collins, and Michelle Johnson-Jennings.
+citation: 'Jesoome, Mary G, Kimberly R. Huyser, Tom Einhorn, Tamara Chavez, Nicole Dawydiuk, Katherine A. Collins, and Michelle Johnson-Jennings.
 2026. &quot;Tradition Guides the Needle&quot;. <i>Contexts</i> 25(2):76-79.'
 ---
 
