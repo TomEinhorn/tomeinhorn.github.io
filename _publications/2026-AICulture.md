@@ -11,7 +11,7 @@ issue:
 pages:
 paperurl: 
 bibtexurl: 
-citation: 'Nleson, Laura K. and Tom Einhorn. 2026. &quot;Quantifying Culture from Embeddings to Generation&quot;. In <i>Notes on the Future of Quantitative Social Science</i>, edited by Rohan Alexander.'
+citation: 'Nelson, Laura K. and Tom Einhorn. 2026. &quot;Quantifying Culture from Embeddings to Generation&quot;. In <i>Notes on the Future of Quantitative Social Science</i>, edited by Rohan Alexander.'
 ---
 
 **Abstract:**
