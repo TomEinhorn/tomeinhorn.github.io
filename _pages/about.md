@@ -50,7 +50,6 @@ list-style-type: none;
 padding-left: 0;
 margin-bottom: 0;
 line-height: 1.7;
-color: #444;
 ">
   <li>R</li>
   <li>Python</li>
@@ -85,7 +84,6 @@ list-style-type: none;
 padding-left: 0;
 margin-bottom: 0;
 line-height: 1.7;
-color: #444;
 ">
   <li>Social movements</li>
   <li>Political sociology</li>
