@@ -123,7 +123,7 @@ ABD, University of British Columbia
 </p>
 
 <p>
-<strong>BA Sociology and Anthropology with a minor in Phylosophy</strong><br>
+<strong>BA Sociology and Anthropology with a minor in Philosophy</strong><br>
 2017, Hebrew University of Jerusalem
 </p>
 
