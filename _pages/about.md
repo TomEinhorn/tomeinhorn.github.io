@@ -57,7 +57,7 @@ line-height: 1.7;
   <li>LaTeX</li>
   <li>Qualitative analysis</li>
   <li>Survey methods</li>
-  <li>Computational text analysis</li>
+  <li>Computational methods</li>
   <li>Statistical modeling</li>
 </ul>
 
@@ -87,9 +87,9 @@ line-height: 1.7;
 ">
   <li>Social movements</li>
   <li>Political sociology</li>
+  <li>Culture</li>
   <li>Organizations</li>
   <li>Digital media</li>
-  <li>Culture</li>
   <li>Computational social science</li>
   <li>Sociological theory</li>
 </ul>
