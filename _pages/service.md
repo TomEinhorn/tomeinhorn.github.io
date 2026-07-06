@@ -15,11 +15,11 @@ author_profile: true
     margin-bottom: 0.15rem;
   }
   .service-entry em {
-    color: #666;
+    opacity: 0.75;
   }
   .service-entry .detail {
     font-size: 0.92em;
-    color: #555;
+    opacity: 0.7;
     margin-top: 0.15rem;
   }
 </style>
