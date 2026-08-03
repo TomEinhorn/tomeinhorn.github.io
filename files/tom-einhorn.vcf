@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Einhorn;Tom;;;
+FN:Tom Einhorn
+ORG:University of British Columbia;Department of Sociology
+TITLE:PhD Candidate
+EMAIL;TYPE=WORK:tom.einhorn@ubc.ca
+URL:https://tomeinhorn.github.io/
+END:VCARD
