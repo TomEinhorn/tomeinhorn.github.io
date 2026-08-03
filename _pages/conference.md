@@ -11,7 +11,7 @@ PhD Candidate in Sociology, University of British Columbia.
 I work on LGBTQ social movements, collective memory, political
 sociology, and computational text analysis.
 
-[<i class="fas fa-address-card" aria-hidden="true"></i> Save my contact](/files/tom-einhorn.vcf){: .btn .btn--primary}
+[<i class="fas fa-address-card" aria-hidden="true"></i> Save my contact info](/files/tom-einhorn.vcf){: .btn .btn--primary}
 
 ## At ASA 2026
 
