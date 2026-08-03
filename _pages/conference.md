@@ -26,7 +26,7 @@ Slides for either talk are available on request.
 
 ## Elsewhere
 
-- <i class="fas fa-globe" aria-hidden="true"></i> [Personal website](tomeinhorn.github.io)
+- <i class="fas fa-globe" aria-hidden="true"></i> [Personal website](https://tomeinhorn.github.io/)
 - <i class="fas fa-envelope" aria-hidden="true"></i> [tom.einhorn@ubc.ca](mailto:tom.einhorn@ubc.ca)
 - <i class="ai ai-google-scholar" aria-hidden="true"></i> [Google Scholar](https://scholar.google.com/citations?user=PRIgkT0AAAAJ&hl=en)
 - <i class="ai ai-orcid" aria-hidden="true"></i> [ORCID](https://orcid.org/0000-0002-3666-2757)
