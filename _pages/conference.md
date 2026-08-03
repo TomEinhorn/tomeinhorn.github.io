@@ -12,16 +12,12 @@ sociology, and computational text analysis.
 
 ## At ASA 2026
 
-**Was It Worth It? Evaluating Multiplicity and the Chronic
-Unsettledness of Movement Victory**
+**1. Was It Worth It? Evaluating Multiplicity and the Chronic
+Unsettledness of Movement Victory** [More information](/talks/2026-08-09-ASA-CBSM)
 
-[Click here for me information](/talks/2026-08-09-ASA-CBSM)
+**2. What Do Language Models Know About the Past? LLM Representation of U.S. Labour Force Structure, 1850–2024** [More information](/talks/2026-08-08-ASA-Comp-Hist)
 
-**What Do Language Models Know About the Past? LLM Representation of U.S. Labour Force Structure, 1850–2024**
-
-[Click here for me information](/talks/2026-08-08-ASA-Comp-Hist)
-
-**Slides for both presentations available upon request.**
+*Slides for both presentations available upon request.*
 
 <a href="/files/tom-einhorn.vcf" class="btn btn--primary">
 <i class="fas fa-address-card"></i> Save my contact</a>
