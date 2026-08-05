@@ -22,7 +22,7 @@ sociology, and computational text analysis.
 *Sun 9 Aug · Comparative-Historical · [session details](/talks/2026-08-08-ASA-Comp-Hist)*
 
 Slides for either talk are available on request.
-{: .notice--primary}
+{: .notice--success}
 
 ## Elsewhere
 
