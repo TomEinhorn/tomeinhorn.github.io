@@ -310,6 +310,10 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+  - scope:
+      path: "*.pdf"
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
