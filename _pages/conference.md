@@ -20,10 +20,8 @@ sociology, and computational text analysis.
 {: .talk}
 
 **What Do Language Models Know About the Past? LLM Representation of U.S. Labour Force Structure, 1850–2024**
-*Sun 9 Aug · Comparative-Historical · [abstract](/talks/2026-08-08-ASA-Comp-Hist)*
-
-Slides for either talk are available on request.
-{: .notice--info}
+*Sun 9 Aug · Comparative-Historical · [abstract](/talks/2026-08-08-ASA-Comp-Hist) · [slides (PDF)](/files/einhornmalinelson - asa2026 - whatdollmsknow.pdf)*
+{: .talk}
 
 ## Elsewhere
 
