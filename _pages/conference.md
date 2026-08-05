@@ -17,11 +17,9 @@ sociology, and computational text analysis.
 
 **Was It Worth It? Evaluating Multiplicity and the Chronic Unsettledness of Movement Victory**
 *Sat 8 Aug · CBSM · [abstract](/talks/2026-08-09-ASA-CBSM) · [slides (PDF)](/files/einhorn-asa2026-wasitworthit.pdf)*
-{: .talk}
 
 **What Do Language Models Know About the Past? LLM Representation of U.S. Labour Force Structure, 1850–2024**
 *Sun 9 Aug · Comparative-Historical · [abstract](/talks/2026-08-08-ASA-Comp-Hist) · [slides (PDF)](/files/einhornmalinelson - asa2026 - whatdollmsknow.pdf)*
-{: .talk}
 
 ## Elsewhere
 
