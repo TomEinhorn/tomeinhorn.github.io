@@ -1,7 +1,7 @@
 ---
 title: "What Do Language Models Know About the Past? LLM Representation of U.S. Labour Force Structure, 1850–2024"
 collection: talks
-category: upcoming
+category: conference
 type: "Conference Presentation"
 talk_type: "Conference Presentation"
 permalink: /talks/2026-08-08-ASA-Comp-Hist
