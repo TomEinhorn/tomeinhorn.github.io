@@ -11,5 +11,5 @@ issue:
 pages: 193-202
 paperurl: 
 bibtexurl: 
-citation: 'Yair, Gad, Tom Einhorn, & Rachel Van Kauffman. 2017. &quot;A School for Teachers: The Adaptation of &apos;Massa&apos; Pedagogy.&quot;. Pp. 193-202 In Yair, G. (ed.), Massa Israeli, pp. 71-104 in <i>Massa Israeli</i>, edited by Gad Yair. Tel Aviv: Yediot Sefarim.'
+citation: 'Yair, Gad, Tom Einhorn, & Rachel Van Kauffman. 2017. &quot;A School for Teachers: The Adaptation of &apos;Massa&apos; Pedagogy.&quot;. Pp. 193-202 In Yair, G. (ed.), Massa Israeli, pp. 193-202 in <i>Massa Israeli</i>, edited by Gad Yair. Tel Aviv: Yediot Sefarim.'
 ---
