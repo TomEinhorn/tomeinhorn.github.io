@@ -6,7 +6,7 @@ type: "Conference Presentation"
 talk_type: "Conference Presentation"
 permalink: /talks/2025-03-20-ottawa-vaccine
 venue: "Vaccination in Racialized and Indigenous Communities in Canada: Forecasting Trust, Interdisciplinary Centre for Black Health, University of Ottawa"
-date: 2025-08-07
+date: 2025-03-20
 location: "Ottawa, ON, CA"
 ---
 
