@@ -4,6 +4,6 @@ collection: publications
 category: forthcoming
 status: "Under review"
 permalink: /publication/2026-kincentricecologies
-authors: "Mary G. Jessome, <b>Tom Einhorn</b> Kimberly R. Huyser, Tamara Chaves, Katherine A. Collins, and Michelle Johnson-Jennings"
+authors: "Jessome, Mary G., <b>Tom Einhorn</b>, Kimberly R. Huyser, Tamara Chaves, Katherine A. Collins, and Michelle Johnson-Jennings"
 date: 2026-08-20
 ---
