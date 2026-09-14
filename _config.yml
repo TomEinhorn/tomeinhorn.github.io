@@ -110,6 +110,8 @@ talk_category:
     title: 'Workshops'
   invited:
     title: 'Invited Talks'
+  poster:
+    title: 'Poster Presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
