@@ -13,13 +13,13 @@ sociology, and computational text analysis.
 
 [<i class="fas fa-address-card" aria-hidden="true"></i> Save my contact info](/files/tom-einhorn.vcf){: .btn .btn--primary}
 
-## At ASA 2026
+## At Text as Data 2026
 
-**Was It Worth It? Evaluating Multiplicity and the Chronic Unsettledness of Movement Victory**
-*Sat 8 Aug · CBSM · [abstract](/talks/2026-08-09-ASA-CBSM) · [slides (PDF)](/files/einhorn-asa2026-wasitworthit.pdf)*
+**Taking Turns: Natural Language Inference on Interview Data**
+*Mon 5 Oct · Poster · [abstract](/talks/2026-10-05-TADA-NLI) · [Poster (PDF)](/files/einhorn-asa2026-wasitworthit.pdf)*
 
-**What Do Language Models Know About the Past? LLM Representation of U.S. Labour Force Structure, 1850–2024**
-*Sun 9 Aug · Comparative-Historical · [abstract](/talks/2026-08-08-ASA-Comp-Hist) · [slides (PDF)](/files/einhornmalinelson - asa2026 - whatdollmsknow.pdf)*
+**What do language models know about the past? Recovering perspectival knowledge using large-scale language models**
+*Mon 5 Oct · Poster · [abstract](/talks/2026-10-05-TADA-AI) · [Poster (PDF)](/files/einhornmalinelson - asa2026 - whatdollmsknow.pdf)*
 
 ## Elsewhere
 
