@@ -16,10 +16,11 @@ sociology, and computational text analysis.
 ## At Text as Data 2026
 
 **Taking Turns: Natural Language Inference on Interview Data**<br>
-*Mon 5 Oct · Poster · [abstract](/talks/2026-10-05-TADA-NLI) · [Poster (PDF)](/files/einhorn-asa2026-wasitworthit.pdf)*
+*Mon 5 Oct · Poster · [abstract](/talks/2026-10-05-TADA-NLI) · [Poster (PDF)]()*
 
 **What do language models know about the past? Recovering perspectival knowledge using large-scale language models**<br>
-*Mon 5 Oct · Poster · [abstract](/talks/2026-10-05-TADA-AI) · [Poster (PDF)](/files/einhornmalinelson - asa2026 - whatdollmsknow.pdf)*
+*With Laura Nelson and Yash Mali*<br>
+*Mon 5 Oct · Poster · [abstract](/talks/2026-10-05-TADA-AI) · [Poster (PDF)]()*
 
 ## Elsewhere
 
