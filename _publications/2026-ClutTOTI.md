@@ -1,10 +1,10 @@
 ---
 title: "Clustering Trust and Health Behaviours Among Indigenous Peoples: A Cross-Sectional Analysis of the 2025 Thrivance on Turtle Island Survey"
 collection: publications
-category: inprogress
-status: 
+category: forthcoming
+status: "Under review"
 permalink: /publication/2026-ClutTOTI
-authors: "Mary Jessome and Nazeem Muhajarine"
+authors: "Sohana Sadique; Nazeem Muhajarine; Marry G. Jessome; <b>Tom Einhorn</b>; Tamara Chavez; Katherine A. Collins; Michelle Johnson-Jennings; Kimberly R. Huyser"
 date: 2026-06-01
 venue: 
 volume:
