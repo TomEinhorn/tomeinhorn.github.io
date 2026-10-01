@@ -28,4 +28,4 @@ sociology, and computational text analysis.
 - <i class="fas fa-envelope" aria-hidden="true"></i> [tom.einhorn@ubc.ca](mailto:tom.einhorn@ubc.ca)
 - <i class="ai ai-google-scholar" aria-hidden="true"></i> [Google Scholar](https://scholar.google.com/citations?user=PRIgkT0AAAAJ&hl=en)
 - <i class="ai ai-orcid" aria-hidden="true"></i> [ORCID](https://orcid.org/0000-0002-3666-2757)
-- <i class="fas fa-file-lines" aria-hidden="true"></i> [CV](/cv/)
+- <i class="fas fa-file-lines" aria-hidden="true"></i> [CV](/files/CV-Oct26pb.pdf)
