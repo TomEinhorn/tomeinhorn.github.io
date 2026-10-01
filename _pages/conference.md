@@ -19,7 +19,7 @@ sociology, and computational text analysis.
 *Mon Oct 5 · Poster · [abstract](/talks/2026-10-05-TADA-NLI) · [poster (PDF)](/files/TADA-NLI-poster.pdf)*
 
 **What do language models know about the past? Recovering perspectival knowledge using large-scale language models**<br>
-*With Laura Nelson and Yash Mali*<br>
+With Laura Nelson and Yash Mali<br>
 *Mon Oct 5 · Poster · [abstract](/talks/2026-10-05-TADA-AI) · [poster (PDF)]()*
 
 ## Elsewhere
